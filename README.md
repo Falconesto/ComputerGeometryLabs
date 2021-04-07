@@ -1,2 +1,2 @@
 # ComputerGeometryLabs
- first semestr computer geometry course
+ computer geometry course
