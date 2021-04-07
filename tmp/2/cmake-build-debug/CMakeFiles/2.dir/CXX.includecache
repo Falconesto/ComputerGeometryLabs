@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/geom/2/Image.cpp
+Image.h
+D:/labs/geom/2/Image.h
+
+D:/labs/geom/2/Image.h
+iostream
+-
+Line.h
+D:/labs/geom/2/Line.h
+vector
+-
+math.h
+D:/labs/geom/2/math.h
+
+D:/labs/geom/2/Line.h
+

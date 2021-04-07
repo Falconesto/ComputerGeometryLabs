@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/geom/0/main.c
+locale.h
+-
+stdlib.h
+D:/labs/geom/0/stdlib.h
+stdio.h
+D:/labs/geom/0/stdio.h
+

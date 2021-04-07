@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/varaastasenko/CLionProjects/CompGraph3/matrix.h
+
+/Users/varaastasenko/CLionProjects/CompGraph3/picture.cpp
+picture.h
+/Users/varaastasenko/CLionProjects/CompGraph3/picture.h
+matrix.h
+/Users/varaastasenko/CLionProjects/CompGraph3/matrix.h
+cmath
+-
+
+/Users/varaastasenko/CLionProjects/CompGraph3/picture.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+

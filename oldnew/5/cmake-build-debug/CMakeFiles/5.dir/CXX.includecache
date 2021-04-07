@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/geom/oldnew/5/Picture.cpp
+fstream
+-
+iostream
+-
+Picture.h
+D:/labs/geom/oldnew/5/Picture.h
+
+D:/labs/geom/oldnew/5/Picture.h
+string
+-
+vector
+-
+
+D:/labs/geom/oldnew/5/main.cpp
+iostream
+-
+Picture.h
+D:/labs/geom/oldnew/5/Picture.h
+
